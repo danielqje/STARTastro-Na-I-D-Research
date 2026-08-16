@@ -4,9 +4,9 @@ Undergraduate astronomy research project completed through the University of Cal
 
 ## Project Overview
 
-This project explores Na I D absorption in the model spectra of elliptical galaxies and how changes in alpha-element abundance, [⍺/Fe], affect the observed absorption features.
+This project explores Na I D absorption in the model spectra of elliptical galaxies and how changes in alpha-iron abundance, [⍺/Fe], affect the observed absorption features.
 
-The analysis focused on continuum normalization, modeling the Na I D doublet with Gaussian absorption profiles, and comparing the fitted models across multiple [⍺/Fe] values.
+The analysis focused on continuum normalization, modeling the Na I D doublet with Gaussian absorption profiles, and comparing the fitted models across five [⍺/Fe] values.
 
 ## Methods
 
@@ -32,8 +32,8 @@ The analysis focused on continuum normalization, modeling the Na I D doublet wit
 
 ## Repository Structure
 
-- 'Notebooks/' - Jupyter notebooks containing the analysis
-- 'Figures/' - selected figures from the final analysis
+- Notebooks/ - Jupyter notebooks containing the analysis
+- Figures/ - selected figures from the final analysis
 
 ## Research Context
 
