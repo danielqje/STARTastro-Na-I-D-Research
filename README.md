@@ -39,6 +39,10 @@ The analysis focused on continuum normalization, modeling the Na I D doublet wit
 
 Na I D absorption can be used when studying gas flows in elliptical galaxies, but stellar absorption can contribute to the observed signal. This project examines the stellar Na I D contribution in model spectra to better understand how it may affect interpretations of gas inflow or outflow.
 
+## Research Mentorship
+
+This project was conducted through STARTastro under the guidance of a faculty research mentor at San Diego State University. I completed the coding, spectral analysis, model fitting, figure creation, and interpretation while receiving guidance on the research direction and methodology.
+
 ## Author
 
 - Daniel Quezada Jimenez
