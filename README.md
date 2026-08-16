@@ -42,5 +42,5 @@ Na I D absorption can be used when studying gas flows in elliptical galaxies, bu
 ## Author
 
 - Daniel Quezada Jimenez
--B.S. Astronomy Student, San Diego State University
+- B.S. Astronomy Student, San Diego State University
 - Mathematics Minor
