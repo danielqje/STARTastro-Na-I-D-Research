@@ -1,6 +1,6 @@
 # STARTastro Na I D Research
 
-Undergraduate astronomy research project completed through the University of California San Diego (UCSD) Summer Research Program (SRP) with the specific program STARTastro at UCSD and San Diego State University (SDSU)
+Undergraduate astronomy research project completed through the University of California San Diego (UCSD) Summer Research Program (SRP) with the specific program STARTastro at UCSD and San Diego State University (SDSU).
 
 ## Project Overview
 
