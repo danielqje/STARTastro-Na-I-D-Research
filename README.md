@@ -37,7 +37,7 @@ The analysis focused on continuum normalization, modeling the Na I D doublet wit
 
 ## Research Context
 
-Na I D absorption can be used when studying gas flows in elliptical galaxies, but stellar absorption can contribute to the observed signal. This project examines the stellar Na I D contribution in model spectra to better understand how it may affect interpretations of gas inflow or outflow.
+Na I D absorption can be used when studying gas flows in elliptical galaxies, but stellar absorption can contribute to the observed signal. This project examines the stellar Na I D contribution in model spectra to better understand how it may affect interpretations of gas inflow.
 
 ## Research Mentorship
 
